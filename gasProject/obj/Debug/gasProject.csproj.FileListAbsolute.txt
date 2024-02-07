@@ -1,0 +1,423 @@
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\gasProject.exe.config
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\gasProject.exe
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\gasProject.pdb
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Google.Protobuf.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\MySql.Data.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Buffers.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.IO.Pipelines.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Memory.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Text.Json.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.ValueTuple.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\ZstdSharp.dll
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Google.Protobuf.pdb
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Google.Protobuf.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\MySql.Data.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Buffers.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.IO.Pipelines.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Memory.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Text.Json.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\bin\Debug\System.ValueTuple.xml
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.csproj.AssemblyReference.cache
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.exe.config
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.Form1.resources
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.Properties.Resources.resources
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.csproj.GenerateResource.cache
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.csproj.CoreCompileInputs.cache
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.csproj.CopyComplete
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.exe
+C:\Users\silas\Source\Repos\silasMarquess\Construgas\gasProject\obj\Debug\gasProject.pdb
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\gasProject.exe.config
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\gasProject.exe
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\gasProject.pdb
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\BouncyCastle.Cryptography.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Google.Protobuf.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\K4os.Hash.xxHash.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\MySql.Data.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Buffers.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Collections.Immutable.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.IO.Pipelines.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Memory.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Numerics.Vectors.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Text.Encodings.Web.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Text.Json.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Threading.Channels.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.ValueTuple.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\ZstdSharp.dll
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\BouncyCastle.Cryptography.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Google.Protobuf.pdb
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Google.Protobuf.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\K4os.Hash.xxHash.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\MySql.Data.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Buffers.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Collections.Immutable.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.IO.Pipelines.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Memory.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Numerics.Vectors.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Text.Encodings.Web.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Text.Json.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Threading.Channels.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\bin\Debug\System.ValueTuple.xml
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.csproj.AssemblyReference.cache
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.exe.config
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.Form1.resources
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.Properties.Resources.resources
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.csproj.GenerateResource.cache
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.csproj.CoreCompileInputs.cache
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.csproj.CopyComplete
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.exe
+E:\dev\Projetos Locais\Desktop\Construgas\gasProject\obj\Debug\gasProject.pdb
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\gasProject.exe.config
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\gasProject.exe
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\gasProject.pdb
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Google.Protobuf.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\K4os.Hash.xxHash.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\MySql.Data.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Buffers.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Collections.Immutable.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.IO.Pipelines.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Memory.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Numerics.Vectors.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Text.Encodings.Web.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Text.Json.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Threading.Channels.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.ValueTuple.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\ZstdSharp.dll
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Google.Protobuf.pdb
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Google.Protobuf.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\K4os.Hash.xxHash.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\MySql.Data.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Buffers.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Collections.Immutable.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.IO.Pipelines.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Memory.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Numerics.Vectors.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Text.Encodings.Web.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Text.Json.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Threading.Channels.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\dev\Projetos Locais\Construgas\gasProject\bin\Debug\System.ValueTuple.xml
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.csproj.AssemblyReference.cache
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.exe.config
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.Form1.resources
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.Properties.Resources.resources
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.csproj.GenerateResource.cache
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.csproj.CoreCompileInputs.cache
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.csproj.CopyComplete
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.exe
+D:\dev\Projetos Locais\Construgas\gasProject\obj\Debug\gasProject.pdb
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.exe.config
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.exe
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.pdb
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\MySql.Data.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Buffers.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.IO.Pipelines.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Memory.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Json.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.ValueTuple.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\ZstdSharp.dll
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.pdb
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\MySql.Data.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Buffers.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.IO.Pipelines.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Memory.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Json.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.ValueTuple.xml
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.AssemblyReference.cache
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.exe.config
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.Form1.resources
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.Properties.Resources.resources
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.entregas_forms.FormGerenteEntregas.resources
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.FrmEntregas.resources
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.GenerateResource.cache
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.CoreCompileInputs.cache
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.CopyComplete
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.exe
+C:\Users\silas\OneDrive\Documentos\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.pdb
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.exe.config
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.exe
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.pdb
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Hash.xxHash.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\MySql.Data.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Buffers.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Collections.Immutable.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.IO.Pipelines.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Memory.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Numerics.Vectors.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Encodings.Web.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Json.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Channels.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.ValueTuple.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\ZstdSharp.dll
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.pdb
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Hash.xxHash.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\MySql.Data.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Buffers.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Collections.Immutable.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.IO.Pipelines.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Memory.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Numerics.Vectors.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Encodings.Web.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Json.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Channels.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\bin\Debug\System.ValueTuple.xml
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.AssemblyReference.cache
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.exe.config
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.Form1.resources
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.Properties.Resources.resources
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.entregas_forms.FormGerenteEntregas.resources
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.FrmEntregas.resources
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.GenerateResource.cache
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.CoreCompileInputs.cache
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.CopyComplete
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.exe
+D:\dev\Projetos Locais\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.pdb
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csprojAssemblyReference.cache
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.exe.config
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.Form1.resources
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.Properties.Resources.resources
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.entregas_forms.FormGerenteEntregas.resources
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.FrmEntregas.resources
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.GenerateResource.cache
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.CoreCompileInputs.cache
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.exe
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.pdb
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.exe.config
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.exe
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.pdb
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\MySql.Data.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Buffers.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.IO.Pipelines.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Memory.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Json.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.ValueTuple.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\ZstdSharp.dll
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.pdb
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\MySql.Data.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Buffers.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.IO.Pipelines.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Memory.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Json.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\bin\Debug\System.ValueTuple.xml
+C:\Users\silas\Documents\dev\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.CopyComplete
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.exe.config
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.exe
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\gasProject.pdb
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\MySql.Data.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Buffers.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.IO.Pipelines.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Memory.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Json.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.ValueTuple.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\ZstdSharp.dll
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.pdb
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Google.Protobuf.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\MySql.Data.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Buffers.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.IO.Pipelines.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Memory.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Text.Json.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\bin\Debug\System.ValueTuple.xml
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.AssemblyReference.cache
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.exe.config
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.Form1.resources
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.Properties.Resources.resources
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.entregas_forms.FormGerenteEntregas.resources
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.FrmEntregas.resources
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.produtos.FrmProduto.resources
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.views.venda.FrmTelaVenda.resources
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.GenerateResource.cache
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.CoreCompileInputs.cache
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.csproj.CopyComplete
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.exe
+C:\Users\silas\OneDrive\Documentos\ProjetoPDVgaz\gasProject\obj\Debug\gasProject.pdb

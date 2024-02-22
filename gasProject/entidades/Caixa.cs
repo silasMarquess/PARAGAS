@@ -9,7 +9,7 @@ namespace gasProject.entidades
 {
     class Caixa
     {
-        public string codigoCaixa { get; set; }
+        public string id_caixa { get; set; }
         public DateTime Data { get; set; }
         public DateTime HoraAbertura { get; set; }
         public DateTime HoraFechamento { get; set; }

@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gasProject.entidades.enums
+namespace gasProject.entidades
 {
-    enum TipoFluxoEstoque : int
+    class Pedido
     {
-        ENTRADA_ESTOQUE=0,
-        SAIDA_ESTOQUE=1
     }
 }

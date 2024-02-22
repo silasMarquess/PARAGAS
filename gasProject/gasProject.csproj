@@ -127,21 +127,16 @@
     <Compile Include="control\Form1Control.cs" />
     <Compile Include="dao\DBConexao.cs" />
     <Compile Include="entidades\Caixa.cs" />
-    <Compile Include="entidades\Cliente.cs" />
-    <Compile Include="entidades\despesa.cs" />
     <Compile Include="entidades\Entrega.cs" />
     <Compile Include="entidades\entregador.cs" />
-    <Compile Include="entidades\enums\OrigenMovEstoque.cs" />
-    <Compile Include="entidades\Mov_Estoque.cs" />
     <Compile Include="entidades\enums\statusCaixa.cs" />
-    <Compile Include="entidades\enums\statusVenda.cs" />
-    <Compile Include="entidades\enums\TipoFluxoEstoque.cs" />
-    <Compile Include="entidades\enums\tipoMov.cs" />
+    <Compile Include="entidades\enums\tipoFluxo.cs" />
+    <Compile Include="entidades\enums\tipoPagamento.cs" />
     <Compile Include="entidades\enums\tipoVasilhame.cs" />
-    <Compile Include="entidades\Item_venda.cs" />
-    <Compile Include="entidades\Recebimento.cs" />
+    <Compile Include="entidades\FluxoCaixa.cs" />
+    <Compile Include="entidades\Pedido.cs" />
+    <Compile Include="entidades\Revendedor.cs" />
     <Compile Include="entidades\Vasilhame.cs" />
-    <Compile Include="entidades\Venda.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

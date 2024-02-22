@@ -10,41 +10,21 @@ namespace gasProject.entidades
     class Caixa
     {
         public string id_caixa { get; set; }
-        public DateTime Data { get; set; }
+        public DateTime Data_Abertura { get; set; }
         public DateTime HoraAbertura { get; set; }
         public DateTime HoraFechamento { get; set; }
-        public decimal ValorAbertura { get; set; }
-        public decimal valorEntrada { get; set; }
-        public decimal valorSaida { get; set; }
+        public decimal Valor_inicial { get; set; }
+        public decimal Total_entrada { get; set; }
+        public decimal Total_Saida { get; set; }
         public decimal ValorFechamento { get; set; }
         public decimal ValorQuebra { get; set; }
-        public decimal saldoFinal { get; set; }
-        public statusCaixa statusCaixa { get; set; }
-        public List<Despesa> ListaDespesa { get; set; }
-        public List<Venda> ListaVenda { get; set; }
+        public decimal Estoque_inicial { get; set; }
+        public statusCaixa Estoque_entrada { get; set; }
+        public decimal Estoque_Saida { get; set; }
+        public decimal Estoque_final { get; set; }
+        public statusCaixa Status_caixa { get; set; }
 
-        public List<Mov_Estoque> ListaMovEstoque { get; set; } = new List<Mov_Estoque>();
 
-
-        public Caixa()
-        {
-
-        }
-
-        public Caixa(string codigoCaixa, DateTime data, DateTime horaAbertura, DateTime horaFechamento, decimal valorAbertura, decimal valorEntrada, decimal valorSaida, decimal valorFechamento, decimal valorQuebra, decimal saldoFinal, statusCaixa statusCaixa)
-        {
-            this.codigoCaixa = codigoCaixa;
-            Data = data;
-            HoraAbertura = horaAbertura;
-            HoraFechamento = horaFechamento;
-            ValorAbertura = valorAbertura;
-            this.valorEntrada = valorEntrada;
-            this.valorSaida = valorSaida;
-            ValorFechamento = valorFechamento;
-            ValorQuebra = valorQuebra;
-            this.saldoFinal = saldoFinal;
-            this.statusCaixa = statusCaixa;
-        }
     }
 
 }

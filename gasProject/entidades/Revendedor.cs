@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gasProject.entidades.enums
+namespace gasProject.entidades
 {
-    enum statusVenda : int
+    class Revendedor
     {
-        VENDA_FECHADA=0,
-        VENDA_ABERTA=1
     }
 }

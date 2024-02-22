@@ -7,17 +7,12 @@ using gasProject.entidades.enums;
 
 namespace gasProject.entidades
 {
-    class Despesa
+    class FluxoCaixa
     {
-        public int Id { get; set; }
+        public int id_fluxo { get; set; }
+        public Entregador Entregador { get; set; }
+        public decimal Valor_total { get; set; }
         public string Descricao { get; set; }
-        public decimal ValorDespesa { get; set; }
-        public tipoMov tipoSaida { get; set; }
-
-
-        public Despesa()
-        {
-
-        }
+        public tipoFluxo Tipo { get; set; }
     }
 }

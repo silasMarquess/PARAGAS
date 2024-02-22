@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace gasProject.entidades.enums
 {
-    enum OrigenMovEstoque : int
+    enum tipoFluxo: int
     {
-        FORNECEDOR =0,
-        CLIENTE=1
+       FLUXO_ENTRADA =0,
+       FLUXO_SAIDA=1
     }
 }

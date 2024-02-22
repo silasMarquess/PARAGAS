@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace gasProject.entidades.enums
 {
-    enum tipoMov: int
+    enum tipoPagamento
     {
-        DINHEIRO=0,
-        PIX=1,
-        CART_CREDITO=2,
-        CART_DEBITO=3,
-        PRAZO_VENDA=4
+        DINHEIRO =1,
+        PIX=2,
+        CARTAO_CREDITO=3,
+        CARTAO_DEBITO=4
+       
     }
 }

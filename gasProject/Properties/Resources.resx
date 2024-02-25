@@ -117,21 +117,27 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="URL" xml:space="preserve">
-    <value>server=dbconstrugas.mysql.uhserver.com;userid=adminsilas;password=S1i2l3a4s5@;database=dbconstrugas</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="vender" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vender.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="URL" xml:space="preserve">
+    <value>server=paragas-db.mysql.uhserver.com;userid=marques2;password=chave182520@;database=paragas_db</value>
+  </data>
   <data name="_11_104884" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\11_104884.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icons8_caixa_registradora_antiga_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-caixa-registradora-antiga-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Sem título" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sem título.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="entregas" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\entregas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="vender" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vender.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="estoque" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\estoque.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,7 +151,7 @@
   <data name="homw" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\homw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Sem título" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sem título.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="8134198-entrega-rapida-caminhao-icone-express-entrega-rapido-movimento-linha-simbolo-ilustracao-eps-10-vetor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8134198-entrega-rapida-caminhao-icone-express-entrega-rapido-movimento-linha-simbolo-ilustracao-eps-10-vetor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

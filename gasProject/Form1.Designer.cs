@@ -126,14 +126,14 @@ namespace gasProject
             this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold);
+            this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold);
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Image = global::gasProject.Properties.Resources.vender;
             this.button2.Location = new System.Drawing.Point(3, 91);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(90, 83);
             this.button2.TabIndex = 2;
-            this.button2.Text = "VENDAS";
+            this.button2.Text = "PRODUTOS";
             this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -153,6 +153,7 @@ namespace gasProject
             this.button1.Text = "INICIO";
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button5
             // 

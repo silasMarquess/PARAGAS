@@ -73,6 +73,17 @@ namespace gasProject.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _8134198_entrega_rapida_caminhao_icone_express_entrega_rapido_movimento_linha_simbolo_ilustracao_eps_10_vetor {
+            get {
+                object obj = ResourceManager.GetObject("8134198-entrega-rapida-caminhao-icone-express-entrega-rapido-movimento-linha-simb" +
+                        "olo-ilustracao-eps-10-vetor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap clientes {
             get {
                 object obj = ResourceManager.GetObject("clientes", resourceCulture);
@@ -133,6 +144,16 @@ namespace gasProject.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Sem_título {
             get {
                 object obj = ResourceManager.GetObject("Sem título", resourceCulture);
@@ -141,7 +162,7 @@ namespace gasProject.Properties {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a server=dbconstrugas.mysql.uhserver.com;userid=adminsilas;password=S1i2l3a4s5@;database=dbconstrugas.
+        ///   Consulta uma cadeia de caracteres localizada semelhante a server=paragas-db.mysql.uhserver.com;userid=marques2;password=chave182520@;database=paragas_db.
         /// </summary>
         internal static string URL {
             get {

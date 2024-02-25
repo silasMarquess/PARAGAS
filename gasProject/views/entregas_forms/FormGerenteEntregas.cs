@@ -41,5 +41,20 @@ namespace gasProject.views.entregas_forms
         {
 
         }
+
+        private void tabPage5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox8_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox9_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

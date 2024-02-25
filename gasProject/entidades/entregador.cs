@@ -11,14 +11,31 @@ namespace gasProject.entidades
         public int Id { get; set; }
         public string  nomeEntregador { get; set; }
         public string Veiculo { get; set; }
-        public string placa { get; set; }
-        public string Cpf { get; set; }
-        public string Sexo { get; set; }
-        public List<Entrega> ListaEntregas { get; set; } = new List<Entrega>();
+        public string Placa { get; set; }
+        public string Renavan { get; set; }
+        public decimal Salario { get; set; }
+        public decimal Perc_comissao { get; set; }
+
+        public List<Entrega> ListaEntregas { get; set; }
 
         public Entregador()
         {
 
         }
+
+        public Entregador(int id, string nomeEntregador,
+            string veiculo, string placa, string renavan)
+        {
+            Id = id;
+            this.nomeEntregador = nomeEntregador;
+            Veiculo = veiculo;
+            Placa = placa;
+            Renavan = renavan;
+        }
+
+
+
+
+
     }
 }

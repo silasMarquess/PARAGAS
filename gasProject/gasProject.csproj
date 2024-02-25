@@ -128,8 +128,9 @@
     <Compile Include="dao\DBConexao.cs" />
     <Compile Include="entidades\Caixa.cs" />
     <Compile Include="entidades\Entrega.cs" />
-    <Compile Include="entidades\entregador.cs" />
+    <Compile Include="entidades\Entregador.cs" />
     <Compile Include="entidades\enums\statusCaixa.cs" />
+    <Compile Include="entidades\enums\statusPedido.cs" />
     <Compile Include="entidades\enums\tipoFluxo.cs" />
     <Compile Include="entidades\enums\tipoPagamento.cs" />
     <Compile Include="entidades\enums\tipoVasilhame.cs" />
@@ -145,24 +146,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="views\clientes\FrmCadClientes.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="views\clientes\FrmCadClientes.Designer.cs">
-      <DependentUpon>FrmCadClientes.cs</DependentUpon>
-    </Compile>
-    <Compile Include="views\clientes\FrmClientes.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="views\clientes\FrmClientes.Designer.cs">
-      <DependentUpon>FrmClientes.cs</DependentUpon>
-    </Compile>
-    <Compile Include="views\clientes\FrmVendaPrazoCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="views\clientes\FrmVendaPrazoCliente.Designer.cs">
-      <DependentUpon>FrmVendaPrazoCliente.cs</DependentUpon>
-    </Compile>
     <Compile Include="views\entregas_forms\FormGerenteEntregas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -181,11 +164,11 @@
     <Compile Include="views\produtos\FrmProduto.Designer.cs">
       <DependentUpon>FrmProduto.cs</DependentUpon>
     </Compile>
-    <Compile Include="views\venda\FrmTelaVenda.cs">
+    <Compile Include="views\venda\FrmEntregaRapida.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="views\venda\FrmTelaVenda.Designer.cs">
-      <DependentUpon>FrmTelaVenda.cs</DependentUpon>
+    <Compile Include="views\venda\FrmEntregaRapida.Designer.cs">
+      <DependentUpon>FrmEntregaRapida.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -200,15 +183,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="views\clientes\FrmCadClientes.resx">
-      <DependentUpon>FrmCadClientes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="views\clientes\FrmClientes.resx">
-      <DependentUpon>FrmClientes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="views\clientes\FrmVendaPrazoCliente.resx">
-      <DependentUpon>FrmVendaPrazoCliente.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="views\entregas_forms\FormGerenteEntregas.resx">
       <DependentUpon>FormGerenteEntregas.cs</DependentUpon>
     </EmbeddedResource>
@@ -218,8 +192,8 @@
     <EmbeddedResource Include="views\produtos\FrmProduto.resx">
       <DependentUpon>FrmProduto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="views\venda\FrmTelaVenda.resx">
-      <DependentUpon>FrmTelaVenda.cs</DependentUpon>
+    <EmbeddedResource Include="views\venda\FrmEntregaRapida.resx">
+      <DependentUpon>FrmEntregaRapida.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -261,6 +235,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Sem título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8134198-entrega-rapida-caminhao-icone-express-entrega-rapido-movimento-linha-simbolo-ilustracao-eps-10-vetor.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

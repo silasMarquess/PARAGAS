@@ -11,6 +11,7 @@ using gasProject.entidades;
 using gasProject.control;
 using gasProject.views;
 using gasProject.views.entregas_forms;
+using gasProject.views.produtos;
 using gasProject.views.venda;
 
 namespace gasProject
@@ -27,14 +28,20 @@ namespace gasProject
 
         private void button2_Click(object sender, EventArgs e)
         {
-            FrmTelaVenda venda = new FrmTelaVenda();
-            _control.AddPainelBase(venda, "TELA DE VENDAS");
+            FrmProduto produtos = new FrmProduto();
+            _control.AddPainelBase(produtos,"TELA PRODUTOS");
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             FormGerenteEntregas form = new FormGerenteEntregas();
             _control.AddPainelBase(form, "GERENTE DE ENTREGADORES E ENTREGAS");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmEntregaRapida entrega = new FrmEntregaRapida();
+            entrega.ShowDialog();
         }
     }
 }

@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace gasProject.entidades.enums
 {
-    enum tipoPagamento
+    enum statusPedido:int
     {
-        DINHEIRO = 1,
-        PIX = 2,
-        CARTAO_CREDITO = 3,
-        CARTAO_DEBITO = 4
+        PEDIDO_ABERTO=0,
+        PEDIDO_FECHADO=1
     }
 }

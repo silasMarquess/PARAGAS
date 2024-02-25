@@ -11,7 +11,8 @@ namespace gasProject.dao
     class DBConexao
     {
         public static MySqlConnection _conexao;
-        string query = "server=db-fichatec.mysql.uhserver.com;userid=adminsilas@10.129.62.40;password=S1i2l3a4s5@;database=dbconstrugas;";
+        string query = "";
+
 
         public static void ModifyOperation<T>(Action<T> act, T obj)
         {
@@ -203,6 +204,13 @@ namespace gasProject.dao
             if (_conexao.State == System.Data.ConnectionState.Closed)
             {
                 _conexao.Open();
+            }
+        }
+        public static void CloseConexao()
+        {
+            if (_conexao.State == System.Data.ConnectionState.Open)
+            {
+                _conexao.Close();
             }
         }
     }

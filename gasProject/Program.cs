@@ -18,6 +18,10 @@ namespace gasProject
         {
             try
             {
+               /* DBConexao._conexao = new MySqlConnection(gasProject.Properties.Resources.URL);
+                DBConexao.OpenConexao();
+                MessageBox.Show("Testde de conexao bem sucedido");*/
+
                 Application.EnableVisualStyles();
                 Application.SetCompatibleTextRenderingDefault(false);
                 Application.Run(new Form1());

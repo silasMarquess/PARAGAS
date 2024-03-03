@@ -189,6 +189,12 @@
     <Compile Include="views\estoque\FrmControleEstoque.Designer.cs">
       <DependentUpon>FrmControleEstoque.cs</DependentUpon>
     </Compile>
+    <Compile Include="views\modulo_revendedores\FrmOrdemPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\modulo_revendedores\FrmOrdemPedido.Designer.cs">
+      <DependentUpon>FrmOrdemPedido.cs</DependentUpon>
+    </Compile>
     <Compile Include="views\modulo_revendedores\FrmRevenda.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -231,6 +237,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="views\estoque\FrmControleEstoque.resx">
       <DependentUpon>FrmControleEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\modulo_revendedores\FrmOrdemPedido.resx">
+      <DependentUpon>FrmOrdemPedido.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="views\modulo_revendedores\FrmRevenda.resx">
       <DependentUpon>FrmRevenda.cs</DependentUpon>

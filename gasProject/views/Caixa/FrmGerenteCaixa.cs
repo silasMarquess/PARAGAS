@@ -16,5 +16,10 @@ namespace gasProject.views.Caixa
         {
             InitializeComponent();
         }
+
+        private void groupBox5_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

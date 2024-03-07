@@ -33,7 +33,33 @@ namespace gasProject.views.venda
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.groupBox18 = new System.Windows.Forms.GroupBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.groupBox16 = new System.Windows.Forms.GroupBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.groupBox26 = new System.Windows.Forms.GroupBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.groupBox25 = new System.Windows.Forms.GroupBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.groupBox24 = new System.Windows.Forms.GroupBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.groupBox23 = new System.Windows.Forms.GroupBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.groupBox15 = new System.Windows.Forms.GroupBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.groupBox22 = new System.Windows.Forms.GroupBox();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.groupBox20 = new System.Windows.Forms.GroupBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.groupBox21 = new System.Windows.Forms.GroupBox();
+            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.groupBox17 = new System.Windows.Forms.GroupBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.groupBox19 = new System.Windows.Forms.GroupBox();
+            this.txtNomeCliente = new System.Windows.Forms.TextBox();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.txtVasilhameCompleto = new System.Windows.Forms.TextBox();
             this.groupBox8 = new System.Windows.Forms.GroupBox();
             this.txtRetirada = new System.Windows.Forms.TextBox();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
@@ -54,36 +80,22 @@ namespace gasProject.views.venda
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox10 = new System.Windows.Forms.GroupBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.groupBox15 = new System.Windows.Forms.GroupBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.groupBox16 = new System.Windows.Forms.GroupBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.groupBox18 = new System.Windows.Forms.GroupBox();
-            this.label9 = new System.Windows.Forms.Label();
-            this.groupBox17 = new System.Windows.Forms.GroupBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.groupBox19 = new System.Windows.Forms.GroupBox();
-            this.txtNomeCliente = new System.Windows.Forms.TextBox();
-            this.groupBox20 = new System.Windows.Forms.GroupBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.groupBox21 = new System.Windows.Forms.GroupBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
-            this.groupBox22 = new System.Windows.Forms.GroupBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.groupBox23 = new System.Windows.Forms.GroupBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.groupBox24 = new System.Windows.Forms.GroupBox();
-            this.label11 = new System.Windows.Forms.Label();
-            this.groupBox25 = new System.Windows.Forms.GroupBox();
-            this.label12 = new System.Windows.Forms.Label();
-            this.groupBox26 = new System.Windows.Forms.GroupBox();
-            this.label13 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.txtVasilhameCompleto = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox6.SuspendLayout();
+            this.groupBox18.SuspendLayout();
+            this.groupBox16.SuspendLayout();
+            this.groupBox26.SuspendLayout();
+            this.groupBox25.SuspendLayout();
+            this.groupBox24.SuspendLayout();
+            this.groupBox23.SuspendLayout();
+            this.groupBox15.SuspendLayout();
+            this.groupBox22.SuspendLayout();
+            this.groupBox20.SuspendLayout();
+            this.groupBox21.SuspendLayout();
+            this.groupBox17.SuspendLayout();
+            this.groupBox19.SuspendLayout();
             this.groupBox5.SuspendLayout();
             this.groupBox8.SuspendLayout();
             this.groupBox4.SuspendLayout();
@@ -96,18 +108,6 @@ namespace gasProject.views.venda
             this.groupBox14.SuspendLayout();
             this.groupBox13.SuspendLayout();
             this.groupBox10.SuspendLayout();
-            this.groupBox15.SuspendLayout();
-            this.groupBox16.SuspendLayout();
-            this.groupBox18.SuspendLayout();
-            this.groupBox17.SuspendLayout();
-            this.groupBox19.SuspendLayout();
-            this.groupBox20.SuspendLayout();
-            this.groupBox21.SuspendLayout();
-            this.groupBox22.SuspendLayout();
-            this.groupBox23.SuspendLayout();
-            this.groupBox24.SuspendLayout();
-            this.groupBox25.SuspendLayout();
-            this.groupBox26.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -176,6 +176,317 @@ namespace gasProject.views.venda
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "FATURAMENTO:";
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(277, 184);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(143, 33);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "FATURAR NO CAIXA";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // groupBox18
+            // 
+            this.groupBox18.BackColor = System.Drawing.Color.MintCream;
+            this.groupBox18.Controls.Add(this.label9);
+            this.groupBox18.Location = new System.Drawing.Point(192, 19);
+            this.groupBox18.Name = "groupBox18";
+            this.groupBox18.Size = new System.Drawing.Size(228, 42);
+            this.groupBox18.TabIndex = 6;
+            this.groupBox18.TabStop = false;
+            this.groupBox18.Text = "Entregador:";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.label9.Location = new System.Drawing.Point(3, 16);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(120, 17);
+            this.label9.TabIndex = 0;
+            this.label9.Text = "Nome Entregador";
+            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // groupBox16
+            // 
+            this.groupBox16.BackColor = System.Drawing.Color.MintCream;
+            this.groupBox16.Controls.Add(this.label7);
+            this.groupBox16.Location = new System.Drawing.Point(101, 19);
+            this.groupBox16.Name = "groupBox16";
+            this.groupBox16.Size = new System.Drawing.Size(85, 42);
+            this.groupBox16.TabIndex = 6;
+            this.groupBox16.TabStop = false;
+            this.groupBox16.Text = "Total/Frete";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.label7.Location = new System.Drawing.Point(3, 16);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(36, 17);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "0,00";
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // groupBox26
+            // 
+            this.groupBox26.BackColor = System.Drawing.Color.MintCream;
+            this.groupBox26.Controls.Add(this.label13);
+            this.groupBox26.Location = new System.Drawing.Point(121, 169);
+            this.groupBox26.Name = "groupBox26";
+            this.groupBox26.Size = new System.Drawing.Size(109, 42);
+            this.groupBox26.TabIndex = 6;
+            this.groupBox26.TabStop = false;
+            this.groupBox26.Text = "Data/Entrega:";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.label13.Location = new System.Drawing.Point(3, 16);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(80, 17);
+            this.label13.TabIndex = 0;
+            this.label13.Text = "08/12/2023";
+            this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // groupBox25
+            // 
+            this.groupBox25.BackColor = System.Drawing.Color.MintCream;
+            this.groupBox25.Controls.Add(this.label12);
+            this.groupBox25.Location = new System.Drawing.Point(6, 176);
+            this.groupBox25.Name = "groupBox25";
+            this.groupBox25.Size = new System.Drawing.Size(109, 42);
+            this.groupBox25.TabIndex = 6;
+            this.groupBox25.TabStop = false;
+            this.groupBox25.Text = "CAIXA:";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.ForeColor = System.Drawing.Color.Blue;
+            this.label12.Location = new System.Drawing.Point(3, 16);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(58, 17);
+            this.label12.TabIndex = 0;
+            this.label12.Text = "CA0812";
+            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // groupBox24
+            // 
+            this.groupBox24.BackColor = System.Drawing.Color.MintCream;
+            this.groupBox24.Controls.Add(this.label11);
+            this.groupBox24.Location = new System.Drawing.Point(121, 126);
+            this.groupBox24.Name = "groupBox24";
+            this.groupBox24.Size = new System.Drawing.Size(299, 42);
+            this.groupBox24.TabIndex = 6;
+            this.groupBox24.TabStop = false;
+            this.groupBox24.Text = "Cliente:";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.label11.Location = new System.Drawing.Point(3, 16);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(36, 17);
+            this.label11.TabIndex = 0;
+            this.label11.Text = "0,00";
+            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // groupBox23
+            // 
+            this.groupBox23.BackColor = System.Drawing.Color.MintCream;
+            this.groupBox23.Controls.Add(this.label10);
+            this.groupBox23.Location = new System.Drawing.Point(6, 126);
+            this.groupBox23.Name = "groupBox23";
+            this.groupBox23.Size = new System.Drawing.Size(109, 42);
+            this.groupBox23.TabIndex = 6;
+            this.groupBox23.TabStop = false;
+            this.groupBox23.Text = "Valor/Liquido:";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.label10.Location = new System.Drawing.Point(3, 16);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(36, 17);
+            this.label10.TabIndex = 0;
+            this.label10.Text = "0,00";
+            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // groupBox15
+            // 
+            this.groupBox15.BackColor = System.Drawing.Color.MintCream;
+            this.groupBox15.Controls.Add(this.label6);
+            this.groupBox15.Location = new System.Drawing.Point(6, 19);
+            this.groupBox15.Name = "groupBox15";
+            this.groupBox15.Size = new System.Drawing.Size(89, 42);
+            this.groupBox15.TabIndex = 6;
+            this.groupBox15.TabStop = false;
+            this.groupBox15.Text = "Total Bruto:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.label6.Location = new System.Drawing.Point(3, 16);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(36, 17);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "0,00";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // groupBox22
+            // 
+            this.groupBox22.BackColor = System.Drawing.Color.MidnightBlue;
+            this.groupBox22.Controls.Add(this.textBox6);
+            this.groupBox22.ForeColor = System.Drawing.Color.White;
+            this.groupBox22.Location = new System.Drawing.Point(321, 71);
+            this.groupBox22.Name = "groupBox22";
+            this.groupBox22.Size = new System.Drawing.Size(99, 42);
+            this.groupBox22.TabIndex = 6;
+            this.groupBox22.TabStop = false;
+            this.groupBox22.Text = "Desconto:";
+            // 
+            // textBox6
+            // 
+            this.textBox6.AutoCompleteCustomSource.AddRange(new string[] {
+            "SIM",
+            "NÃO"});
+            this.textBox6.BackColor = System.Drawing.Color.MidnightBlue;
+            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox6.ForeColor = System.Drawing.Color.White;
+            this.textBox6.Location = new System.Drawing.Point(3, 16);
+            this.textBox6.Multiline = true;
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(93, 23);
+            this.textBox6.TabIndex = 5;
+            this.textBox6.Text = "0,00";
+            // 
+            // groupBox20
+            // 
+            this.groupBox20.BackColor = System.Drawing.Color.MidnightBlue;
+            this.groupBox20.Controls.Add(this.textBox5);
+            this.groupBox20.ForeColor = System.Drawing.Color.White;
+            this.groupBox20.Location = new System.Drawing.Point(208, 71);
+            this.groupBox20.Name = "groupBox20";
+            this.groupBox20.Size = new System.Drawing.Size(107, 42);
+            this.groupBox20.TabIndex = 6;
+            this.groupBox20.TabStop = false;
+            this.groupBox20.Text = "Acréscimo:";
+            // 
+            // textBox5
+            // 
+            this.textBox5.AutoCompleteCustomSource.AddRange(new string[] {
+            "SIM",
+            "NÃO"});
+            this.textBox5.BackColor = System.Drawing.Color.MidnightBlue;
+            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox5.ForeColor = System.Drawing.Color.White;
+            this.textBox5.Location = new System.Drawing.Point(3, 16);
+            this.textBox5.Multiline = true;
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(101, 23);
+            this.textBox5.TabIndex = 5;
+            this.textBox5.Text = "0,00";
+            // 
+            // groupBox21
+            // 
+            this.groupBox21.BackColor = System.Drawing.Color.MidnightBlue;
+            this.groupBox21.Controls.Add(this.comboBox3);
+            this.groupBox21.ForeColor = System.Drawing.Color.White;
+            this.groupBox21.Location = new System.Drawing.Point(6, 71);
+            this.groupBox21.Name = "groupBox21";
+            this.groupBox21.Size = new System.Drawing.Size(196, 42);
+            this.groupBox21.TabIndex = 6;
+            this.groupBox21.TabStop = false;
+            this.groupBox21.Text = "Forma/Pagamento:";
+            // 
+            // comboBox3
+            // 
+            this.comboBox3.BackColor = System.Drawing.Color.MidnightBlue;
+            this.comboBox3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.comboBox3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.comboBox3.FormattingEnabled = true;
+            this.comboBox3.Location = new System.Drawing.Point(3, 16);
+            this.comboBox3.Name = "comboBox3";
+            this.comboBox3.Size = new System.Drawing.Size(190, 21);
+            this.comboBox3.TabIndex = 9;
+            // 
+            // groupBox17
+            // 
+            this.groupBox17.BackColor = System.Drawing.Color.MintCream;
+            this.groupBox17.Controls.Add(this.label8);
+            this.groupBox17.Location = new System.Drawing.Point(6, 19);
+            this.groupBox17.Name = "groupBox17";
+            this.groupBox17.Size = new System.Drawing.Size(95, 42);
+            this.groupBox17.TabIndex = 6;
+            this.groupBox17.TabStop = false;
+            this.groupBox17.Text = "NºIdentificação:";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.label8.Location = new System.Drawing.Point(3, 16);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(36, 17);
+            this.label8.TabIndex = 0;
+            this.label8.Text = "0,00";
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // groupBox19
+            // 
+            this.groupBox19.BackColor = System.Drawing.Color.MidnightBlue;
+            this.groupBox19.Controls.Add(this.txtNomeCliente);
+            this.groupBox19.ForeColor = System.Drawing.Color.White;
+            this.groupBox19.Location = new System.Drawing.Point(6, 127);
+            this.groupBox19.Name = "groupBox19";
+            this.groupBox19.Size = new System.Drawing.Size(426, 42);
+            this.groupBox19.TabIndex = 6;
+            this.groupBox19.TabStop = false;
+            this.groupBox19.Text = "Nome/Cliente:";
+            // 
+            // txtNomeCliente
+            // 
+            this.txtNomeCliente.AutoCompleteCustomSource.AddRange(new string[] {
+            "SIM",
+            "NÃO"});
+            this.txtNomeCliente.BackColor = System.Drawing.Color.MidnightBlue;
+            this.txtNomeCliente.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtNomeCliente.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtNomeCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNomeCliente.ForeColor = System.Drawing.Color.White;
+            this.txtNomeCliente.Location = new System.Drawing.Point(3, 16);
+            this.txtNomeCliente.Multiline = true;
+            this.txtNomeCliente.Name = "txtNomeCliente";
+            this.txtNomeCliente.Size = new System.Drawing.Size(420, 23);
+            this.txtNomeCliente.TabIndex = 5;
+            this.txtNomeCliente.Text = "CONSUMIDOR FINAL";
+            // 
             // groupBox5
             // 
             this.groupBox5.BackColor = System.Drawing.Color.MidnightBlue;
@@ -187,6 +498,25 @@ namespace gasProject.views.venda
             this.groupBox5.TabIndex = 6;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Vasilhame/Completo:";
+            // 
+            // txtVasilhameCompleto
+            // 
+            this.txtVasilhameCompleto.AutoCompleteCustomSource.AddRange(new string[] {
+            "SIM",
+            "NÃO"});
+            this.txtVasilhameCompleto.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Append;
+            this.txtVasilhameCompleto.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
+            this.txtVasilhameCompleto.BackColor = System.Drawing.Color.MidnightBlue;
+            this.txtVasilhameCompleto.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtVasilhameCompleto.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtVasilhameCompleto.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtVasilhameCompleto.ForeColor = System.Drawing.Color.White;
+            this.txtVasilhameCompleto.Location = new System.Drawing.Point(3, 16);
+            this.txtVasilhameCompleto.Name = "txtVasilhameCompleto";
+            this.txtVasilhameCompleto.Size = new System.Drawing.Size(113, 16);
+            this.txtVasilhameCompleto.TabIndex = 5;
+            this.txtVasilhameCompleto.Text = "NÃO";
+            this.txtVasilhameCompleto.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtVasilhameCompleto_KeyDown);
             // 
             // groupBox8
             // 
@@ -441,336 +771,6 @@ namespace gasProject.views.venda
             this.label4.Text = "0,00 R$";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // groupBox15
-            // 
-            this.groupBox15.BackColor = System.Drawing.Color.MintCream;
-            this.groupBox15.Controls.Add(this.label6);
-            this.groupBox15.Location = new System.Drawing.Point(6, 19);
-            this.groupBox15.Name = "groupBox15";
-            this.groupBox15.Size = new System.Drawing.Size(89, 42);
-            this.groupBox15.TabIndex = 6;
-            this.groupBox15.TabStop = false;
-            this.groupBox15.Text = "Total Bruto:";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.label6.Location = new System.Drawing.Point(3, 16);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(36, 17);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "0,00";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // groupBox16
-            // 
-            this.groupBox16.BackColor = System.Drawing.Color.MintCream;
-            this.groupBox16.Controls.Add(this.label7);
-            this.groupBox16.Location = new System.Drawing.Point(101, 19);
-            this.groupBox16.Name = "groupBox16";
-            this.groupBox16.Size = new System.Drawing.Size(85, 42);
-            this.groupBox16.TabIndex = 6;
-            this.groupBox16.TabStop = false;
-            this.groupBox16.Text = "Total/Frete";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.label7.Location = new System.Drawing.Point(3, 16);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(36, 17);
-            this.label7.TabIndex = 0;
-            this.label7.Text = "0,00";
-            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // groupBox18
-            // 
-            this.groupBox18.BackColor = System.Drawing.Color.MintCream;
-            this.groupBox18.Controls.Add(this.label9);
-            this.groupBox18.Location = new System.Drawing.Point(192, 19);
-            this.groupBox18.Name = "groupBox18";
-            this.groupBox18.Size = new System.Drawing.Size(228, 42);
-            this.groupBox18.TabIndex = 6;
-            this.groupBox18.TabStop = false;
-            this.groupBox18.Text = "Entregador:";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.label9.Location = new System.Drawing.Point(3, 16);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 17);
-            this.label9.TabIndex = 0;
-            this.label9.Text = "Nome Entregador";
-            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // groupBox17
-            // 
-            this.groupBox17.BackColor = System.Drawing.Color.MintCream;
-            this.groupBox17.Controls.Add(this.label8);
-            this.groupBox17.Location = new System.Drawing.Point(6, 19);
-            this.groupBox17.Name = "groupBox17";
-            this.groupBox17.Size = new System.Drawing.Size(95, 42);
-            this.groupBox17.TabIndex = 6;
-            this.groupBox17.TabStop = false;
-            this.groupBox17.Text = "NºIdentificação:";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.label8.Location = new System.Drawing.Point(3, 16);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(36, 17);
-            this.label8.TabIndex = 0;
-            this.label8.Text = "0,00";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // groupBox19
-            // 
-            this.groupBox19.BackColor = System.Drawing.Color.MidnightBlue;
-            this.groupBox19.Controls.Add(this.txtNomeCliente);
-            this.groupBox19.ForeColor = System.Drawing.Color.White;
-            this.groupBox19.Location = new System.Drawing.Point(6, 127);
-            this.groupBox19.Name = "groupBox19";
-            this.groupBox19.Size = new System.Drawing.Size(426, 42);
-            this.groupBox19.TabIndex = 6;
-            this.groupBox19.TabStop = false;
-            this.groupBox19.Text = "Nome/Cliente:";
-            // 
-            // txtNomeCliente
-            // 
-            this.txtNomeCliente.AutoCompleteCustomSource.AddRange(new string[] {
-            "SIM",
-            "NÃO"});
-            this.txtNomeCliente.BackColor = System.Drawing.Color.MidnightBlue;
-            this.txtNomeCliente.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtNomeCliente.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtNomeCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNomeCliente.ForeColor = System.Drawing.Color.White;
-            this.txtNomeCliente.Location = new System.Drawing.Point(3, 16);
-            this.txtNomeCliente.Multiline = true;
-            this.txtNomeCliente.Name = "txtNomeCliente";
-            this.txtNomeCliente.Size = new System.Drawing.Size(420, 23);
-            this.txtNomeCliente.TabIndex = 5;
-            this.txtNomeCliente.Text = "CONSUMIDOR FINAL";
-            // 
-            // groupBox20
-            // 
-            this.groupBox20.BackColor = System.Drawing.Color.MidnightBlue;
-            this.groupBox20.Controls.Add(this.textBox5);
-            this.groupBox20.ForeColor = System.Drawing.Color.White;
-            this.groupBox20.Location = new System.Drawing.Point(208, 71);
-            this.groupBox20.Name = "groupBox20";
-            this.groupBox20.Size = new System.Drawing.Size(107, 42);
-            this.groupBox20.TabIndex = 6;
-            this.groupBox20.TabStop = false;
-            this.groupBox20.Text = "Acréscimo:";
-            // 
-            // textBox5
-            // 
-            this.textBox5.AutoCompleteCustomSource.AddRange(new string[] {
-            "SIM",
-            "NÃO"});
-            this.textBox5.BackColor = System.Drawing.Color.MidnightBlue;
-            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.ForeColor = System.Drawing.Color.White;
-            this.textBox5.Location = new System.Drawing.Point(3, 16);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(101, 23);
-            this.textBox5.TabIndex = 5;
-            this.textBox5.Text = "0,00";
-            // 
-            // groupBox21
-            // 
-            this.groupBox21.BackColor = System.Drawing.Color.MidnightBlue;
-            this.groupBox21.Controls.Add(this.comboBox3);
-            this.groupBox21.ForeColor = System.Drawing.Color.White;
-            this.groupBox21.Location = new System.Drawing.Point(6, 71);
-            this.groupBox21.Name = "groupBox21";
-            this.groupBox21.Size = new System.Drawing.Size(196, 42);
-            this.groupBox21.TabIndex = 6;
-            this.groupBox21.TabStop = false;
-            this.groupBox21.Text = "Forma/Pagamento:";
-            // 
-            // comboBox3
-            // 
-            this.comboBox3.BackColor = System.Drawing.Color.MidnightBlue;
-            this.comboBox3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.comboBox3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(3, 16);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(190, 21);
-            this.comboBox3.TabIndex = 9;
-            // 
-            // groupBox22
-            // 
-            this.groupBox22.BackColor = System.Drawing.Color.MidnightBlue;
-            this.groupBox22.Controls.Add(this.textBox6);
-            this.groupBox22.ForeColor = System.Drawing.Color.White;
-            this.groupBox22.Location = new System.Drawing.Point(321, 71);
-            this.groupBox22.Name = "groupBox22";
-            this.groupBox22.Size = new System.Drawing.Size(99, 42);
-            this.groupBox22.TabIndex = 6;
-            this.groupBox22.TabStop = false;
-            this.groupBox22.Text = "Desconto:";
-            // 
-            // textBox6
-            // 
-            this.textBox6.AutoCompleteCustomSource.AddRange(new string[] {
-            "SIM",
-            "NÃO"});
-            this.textBox6.BackColor = System.Drawing.Color.MidnightBlue;
-            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.ForeColor = System.Drawing.Color.White;
-            this.textBox6.Location = new System.Drawing.Point(3, 16);
-            this.textBox6.Multiline = true;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(93, 23);
-            this.textBox6.TabIndex = 5;
-            this.textBox6.Text = "0,00";
-            // 
-            // groupBox23
-            // 
-            this.groupBox23.BackColor = System.Drawing.Color.MintCream;
-            this.groupBox23.Controls.Add(this.label10);
-            this.groupBox23.Location = new System.Drawing.Point(6, 126);
-            this.groupBox23.Name = "groupBox23";
-            this.groupBox23.Size = new System.Drawing.Size(109, 42);
-            this.groupBox23.TabIndex = 6;
-            this.groupBox23.TabStop = false;
-            this.groupBox23.Text = "Valor/Liquido:";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.label10.Location = new System.Drawing.Point(3, 16);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(36, 17);
-            this.label10.TabIndex = 0;
-            this.label10.Text = "0,00";
-            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // groupBox24
-            // 
-            this.groupBox24.BackColor = System.Drawing.Color.MintCream;
-            this.groupBox24.Controls.Add(this.label11);
-            this.groupBox24.Location = new System.Drawing.Point(121, 126);
-            this.groupBox24.Name = "groupBox24";
-            this.groupBox24.Size = new System.Drawing.Size(299, 42);
-            this.groupBox24.TabIndex = 6;
-            this.groupBox24.TabStop = false;
-            this.groupBox24.Text = "Cliente:";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.label11.Location = new System.Drawing.Point(3, 16);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(36, 17);
-            this.label11.TabIndex = 0;
-            this.label11.Text = "0,00";
-            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // groupBox25
-            // 
-            this.groupBox25.BackColor = System.Drawing.Color.MintCream;
-            this.groupBox25.Controls.Add(this.label12);
-            this.groupBox25.Location = new System.Drawing.Point(6, 176);
-            this.groupBox25.Name = "groupBox25";
-            this.groupBox25.Size = new System.Drawing.Size(109, 42);
-            this.groupBox25.TabIndex = 6;
-            this.groupBox25.TabStop = false;
-            this.groupBox25.Text = "CAIXA:";
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.ForeColor = System.Drawing.Color.Blue;
-            this.label12.Location = new System.Drawing.Point(3, 16);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(58, 17);
-            this.label12.TabIndex = 0;
-            this.label12.Text = "CA0812";
-            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // groupBox26
-            // 
-            this.groupBox26.BackColor = System.Drawing.Color.MintCream;
-            this.groupBox26.Controls.Add(this.label13);
-            this.groupBox26.Location = new System.Drawing.Point(121, 169);
-            this.groupBox26.Name = "groupBox26";
-            this.groupBox26.Size = new System.Drawing.Size(109, 42);
-            this.groupBox26.TabIndex = 6;
-            this.groupBox26.TabStop = false;
-            this.groupBox26.Text = "Data/Entrega:";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.label13.Location = new System.Drawing.Point(3, 16);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(80, 17);
-            this.label13.TabIndex = 0;
-            this.label13.Text = "08/12/2023";
-            this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(277, 184);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(143, 33);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "FATURAR NO CAIXA";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // txtVasilhameCompleto
-            // 
-            this.txtVasilhameCompleto.AutoCompleteCustomSource.AddRange(new string[] {
-            "SIM",
-            "NÃO"});
-            this.txtVasilhameCompleto.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Append;
-            this.txtVasilhameCompleto.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
-            this.txtVasilhameCompleto.BackColor = System.Drawing.Color.MidnightBlue;
-            this.txtVasilhameCompleto.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtVasilhameCompleto.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtVasilhameCompleto.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtVasilhameCompleto.ForeColor = System.Drawing.Color.White;
-            this.txtVasilhameCompleto.Location = new System.Drawing.Point(3, 16);
-            this.txtVasilhameCompleto.Name = "txtVasilhameCompleto";
-            this.txtVasilhameCompleto.Size = new System.Drawing.Size(113, 16);
-            this.txtVasilhameCompleto.TabIndex = 5;
-            this.txtVasilhameCompleto.Text = "NÃO";
-            this.txtVasilhameCompleto.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtVasilhameCompleto_KeyDown);
-            // 
             // FrmEntregaRapida
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -783,6 +783,29 @@ namespace gasProject.views.venda
             this.tableLayoutPanel1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox6.ResumeLayout(false);
+            this.groupBox18.ResumeLayout(false);
+            this.groupBox18.PerformLayout();
+            this.groupBox16.ResumeLayout(false);
+            this.groupBox16.PerformLayout();
+            this.groupBox26.ResumeLayout(false);
+            this.groupBox26.PerformLayout();
+            this.groupBox25.ResumeLayout(false);
+            this.groupBox25.PerformLayout();
+            this.groupBox24.ResumeLayout(false);
+            this.groupBox24.PerformLayout();
+            this.groupBox23.ResumeLayout(false);
+            this.groupBox23.PerformLayout();
+            this.groupBox15.ResumeLayout(false);
+            this.groupBox15.PerformLayout();
+            this.groupBox22.ResumeLayout(false);
+            this.groupBox22.PerformLayout();
+            this.groupBox20.ResumeLayout(false);
+            this.groupBox20.PerformLayout();
+            this.groupBox21.ResumeLayout(false);
+            this.groupBox17.ResumeLayout(false);
+            this.groupBox17.PerformLayout();
+            this.groupBox19.ResumeLayout(false);
+            this.groupBox19.PerformLayout();
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
             this.groupBox8.ResumeLayout(false);
@@ -803,29 +826,6 @@ namespace gasProject.views.venda
             this.groupBox13.PerformLayout();
             this.groupBox10.ResumeLayout(false);
             this.groupBox10.PerformLayout();
-            this.groupBox15.ResumeLayout(false);
-            this.groupBox15.PerformLayout();
-            this.groupBox16.ResumeLayout(false);
-            this.groupBox16.PerformLayout();
-            this.groupBox18.ResumeLayout(false);
-            this.groupBox18.PerformLayout();
-            this.groupBox17.ResumeLayout(false);
-            this.groupBox17.PerformLayout();
-            this.groupBox19.ResumeLayout(false);
-            this.groupBox19.PerformLayout();
-            this.groupBox20.ResumeLayout(false);
-            this.groupBox20.PerformLayout();
-            this.groupBox21.ResumeLayout(false);
-            this.groupBox22.ResumeLayout(false);
-            this.groupBox22.PerformLayout();
-            this.groupBox23.ResumeLayout(false);
-            this.groupBox23.PerformLayout();
-            this.groupBox24.ResumeLayout(false);
-            this.groupBox24.PerformLayout();
-            this.groupBox25.ResumeLayout(false);
-            this.groupBox25.PerformLayout();
-            this.groupBox26.ResumeLayout(false);
-            this.groupBox26.PerformLayout();
             this.ResumeLayout(false);
 
         }

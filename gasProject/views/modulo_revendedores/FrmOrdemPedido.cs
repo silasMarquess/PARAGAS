@@ -21,5 +21,10 @@ namespace gasProject.views.modulo_revendedores
         {
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
